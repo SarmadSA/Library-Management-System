@@ -1,0 +1,14 @@
+.custom-sa{
+    width: 100%;
+}
+
+.delete{
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+
+.delete:hover{
+    color: red;
+    cursor: pointer;
+}
